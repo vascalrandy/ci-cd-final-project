@@ -4,6 +4,7 @@ Werkzeug==2.1.2
 # Runtime dependencies
 Flask==2.1.2
 python-dotenv==0.20.0
+MarkupSafe==2.1.5
 
 # Runtime tools
 gunicorn==20.1.0
